@@ -5,7 +5,7 @@
 
 🎓 BSc Computer Science Student at UET Taxila  
 💻 Passionate about Programming, Problem Solving & AI  
-🇵🇰 From Pakistan | 🌏 Future goal: Higher Studies in Japan  
+🇵🇰 From Pakistan | 🌏 Future goal: Higher Studies in China 
 
 ---
 
