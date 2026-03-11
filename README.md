@@ -5,7 +5,7 @@
 
 🎓 **BSc Computer Science Student** at UET Taxila  
 💻 **Passionate about** Programming, AI, and Scalable Web Architectures  
-🇵🇰 **From Pakistan** | 🌏 **Goal:** Higher Studies in Japan or China  
+ 
 
 ---
 
