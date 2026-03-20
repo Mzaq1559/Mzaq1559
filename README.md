@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Zulqarnain&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=BSc%20Computer%20Science%20·%20UET%20Taxila&descAlignY=58&descSize=16&descColor=a78bfa)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Zulqarnain%20Abdullah&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=BSc%20Computer%20Science%20·%20UET%20Taxila&descAlignY=58&descSize=16&descColor=a78bfa)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://mzaq1559.github.io/PersonalPortfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zulqarnain-26276b319)
