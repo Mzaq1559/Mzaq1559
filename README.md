@@ -78,7 +78,7 @@ I'm a backend-focused CS student who cares about systems that scale and code tha
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mzaq1559.github.io-333?style=flat-square)](https://mzaq1559.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mzaq1559.github.io-333?style=flat-square)](https://mzaq1559.github.io/PortFolio/)
 &nbsp;
 [![Blog](https://img.shields.io/badge/Blog-Learning_Diary-E84E31?style=flat-square)](https://mzaq1559.github.io/My-Learning-Diary/)
 &nbsp;
