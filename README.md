@@ -33,7 +33,7 @@ I'm a backend-focused CS student who cares about systems that scale and code tha
 
 <div align="center">
 
-[![Visit Blog](https://img.shields.io/badge/📖_Read_My_Learning_Diary-E84E31?style=for-the-badge&logoColor=white)](https://mzaq1559.github.io/Blog_Website-My-Learning-Diary-/)
+[![Visit Blog](https://img.shields.io/badge/📖_Read_My_Learning_Diary-E84E31?style=for-the-badge&logoColor=white)](https://mzaq1559.github.io/My-Learning-Diary/)
 
 **Topics:** `Async Python` · `System Design` · `Linux` · `Kubernetes` · `Data Engineering`
 
