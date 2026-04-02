@@ -78,9 +78,9 @@ I'm a backend-focused CS student who cares about systems that scale and code tha
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mzaq1559.github.io-333?style=flat-square)](https://mzaq1559.github.io/PersonalPortfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mzaq1559.github.io-333?style=flat-square)](https://mzaq1559.github.io/Portfolio/)
 &nbsp;
-[![Blog](https://img.shields.io/badge/Blog-Learning_Diary-E84E31?style=flat-square)](https://mzaq1559.github.io/Blog_Website-My-Learning-Diary-/)
+[![Blog](https://img.shields.io/badge/Blog-Learning_Diary-E84E31?style=flat-square)](https://mzaq1559.github.io/My-Learning-Diary/)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zulqarnain-26276b319)
 &nbsp;
