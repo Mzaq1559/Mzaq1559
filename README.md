@@ -6,8 +6,6 @@
 
 <img src="https://img.shields.io/badge/CS_Undergrad,_4th_Semester-1a1a1a?style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/badge/📍_Taxila,_Pakistan-1a1a1a?style=flat-square" />
-&nbsp;
 <img src="https://img.shields.io/badge/Open_to_Internships-E84E31?style=flat-square" />
 
 </div>
