@@ -46,11 +46,10 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mzaq1559&theme=dark&hide_border=true&ring=E84E31&fire=E84E31&currStreakLabel=E84E31)](https://git.io/streak-stats)
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mzaq1559&bg_color=0d1117&color=E84E31&line=E84E31&point=ffffff&area=true&area_color=E84E3120&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<table><tr>
+<td><img src="https://streak-stats.demolab.com?user=Mzaq1559&theme=dark&hide_border=true&ring=E84E31&fire=E84E31&currStreakLabel=E84E31" width="380"/></td>
+<td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Mzaq1559&bg_color=0d1117&color=E84E31&line=E84E31&point=ffffff&area=true&area_color=E84E3120&hide_border=true" width="380"/></td>
+</tr></table>
 
 </div>
 
