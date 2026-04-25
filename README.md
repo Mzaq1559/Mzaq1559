@@ -12,18 +12,6 @@
 
 ---
 
-I'm a backend-focused CS student who cares about systems that scale and code that ships. I'm grateful to work in an open-source world — and try to give back to it.
-
-- 🐧 Linux & Python are my daily environment
-- ⚙️ Interested in distributed systems, backend architecture, and data pipelines
-- 📦 Currently studying **Async Python**, **System Design**, and **Kubernetes**
-- 🔍 Open to internships in **Backend / DevOps / Data Engineering**
-
-> *"The mission of learning is to gain an understanding of various designs."*  
-> *"Automate any behavior worth sustaining."*
-
----
-
 ## ✍️ Learning Diary — My Blog
 
 > I write about everything I learn as I go — backend systems, Python internals, Linux, and more.  
