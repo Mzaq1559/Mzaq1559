@@ -15,21 +15,24 @@
 
 ---
 
-## 📖 Learning Diary
+<table><tr>
 
-<div align="center">
+<td valign="top" width="50%">
+
+## 📖 Learning Diary
 
 [![Visit Blog](https://img.shields.io/badge/📖_Read_My_Learning_Diary-E84E31?style=for-the-badge&logoColor=white)](https://mzaq1559.github.io/My-Learning-Diary/)
 
-`Async Python` · `System Design` · `Linux` · `Kubernetes` · `Data Engineering` · until **July 2026**
+`Async Python` · `System Design` · `Linux`
+`Kubernetes` · `Data Engineering`
 
-</div>
+until **July 2026**
 
----
+</td>
+
+<td valign="top" width="50%">
 
 ## 🛠️ Stack
-
-<div align="center">
 
 | | |
 |---|---|
@@ -38,7 +41,9 @@
 | **Databases** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
 | **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
-</div>
+</td>
+
+</tr></table>
 
 ---
 
