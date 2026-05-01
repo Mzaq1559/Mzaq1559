@@ -44,6 +44,12 @@
 
 ---
 
+**⚔️ LeetCode**
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Mzaq1559-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mzaq1559/)
+
+---
+
 **📊 GitHub Activity**
 
 <table width="100%"><tr>
@@ -58,6 +64,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-mzaq1559.github.io-333?style=flat-square)](https://mzaq1559.github.io/PortFolio/) &nbsp;
 [![Blog](https://img.shields.io/badge/Blog-Learning_Diary-E84E31?style=flat-square)](https://mzaq1559.github.io/My-Learning-Diary/) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zulqarnain-26276b319) &nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-Mzaq1559-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mzaq1559/) &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mzaq1559)
 
 <sub>Building in public. If something interests you — reach out.</sub>
