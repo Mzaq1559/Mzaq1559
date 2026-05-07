@@ -1,16 +1,22 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E84E31&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zulqarnain.;Web+Developer.;Data+Science+%26+AI+Enthusiast." alt="Typing SVG" />
+
 <br/>
+
 <img src="https://img.shields.io/badge/CS_Undergrad,_4th_Semester-1a1a1a?style=flat-square" />
 &nbsp;
+<img src="https://img.shields.io/badge/Born_02--10--2005-2E86AB?style=flat-square" />
+&nbsp;
 <img src="https://img.shields.io/badge/Open_to_Internships-E84E31?style=flat-square" />
+
 </div>
 
 ---
 
 🐧 `Linux & Python` &nbsp;·&nbsp; ⚙️ `Backend + Data Pipelines` &nbsp;·&nbsp; 📦 `Async Python · K8s · System Design`
 
-> *"The mission of learning is to gain an understanding of various designs." "Automate any behavior worth sustaining."*
+> *"The mission of learning is to gain an understanding of various designs."*
+> *"Automate any behavior worth sustaining."*
 
 ---
 
