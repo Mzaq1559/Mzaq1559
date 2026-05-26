@@ -1,69 +1,69 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E84E31&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zulqarnain.;Web+Developer.;Data+Science+%26+AI+Enthusiast." alt="Typing SVG" />
+
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=E84E31&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zulqarnain.;Web+Developer.;Data+Science+%26+AI+Enthusiast." alt="Typing SVG" />
 
 <br/>
 
+<!-- Status Badges -->
 <img src="https://img.shields.io/badge/CS_Undergrad,_4th_Semester-1a1a1a?style=flat-square" />
 &nbsp;
 <img src="https://img.shields.io/badge/Born_02--10--2005-2E86AB?style=flat-square" />
 &nbsp;
 <img src="https://img.shields.io/badge/Open_to_Internships-E84E31?style=flat-square" />
 
+<br/><br/>
+
+<!-- Philosophy Quotes -->
+> *"The mission of learning is to gain an understanding of various designs."*
+> *"Automate any behavior worth sustaining."*
+
 </div>
 
 ---
 
-🐧 `Linux & Python` &nbsp;·&nbsp; ⚙️ `Backend + Data Pipelines` &nbsp;·&nbsp; 📦 `Async Python · K8s · System Design`
+### 🚀 Focus & Continuous Learning
 
-> *"The mission of learning is to gain an understanding of various designs."*
-> *"Automate any behavior worth sustaining."*
-
----
-
-<table width="100%"><tr>
-
-<td valign="top" width="38%">
+<table width="100%">
+<tr>
+<td width="40%" valign="top">
 
 **📖 Learning Diary**
-
+<br/>
 [![Blog](https://img.shields.io/badge/Read_My_Learning_Diary-E84E31?style=for-the-badge&logoColor=white)](https://mzaq1559.github.io/My-Learning-Diary/)
-
-`Async Python` `System Design` `Linux` `Kubernetes` `Data Engineering` · until **Jul 2026**
-
-</td>
-
-<td valign="top" width="62%">
-
-**🛠️ Stack**
-
-| | |
-|---|---|
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)|
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Frameworks** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| **Databases** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Azure Data Studio](https://img.shields.io/badge/Azure_Data_Studio-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
-| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+<br/><br/>
+`Async Python` `System Design` <br/> 
+`Linux` `Kubernetes` `Data Eng`
+<br/><br/>
+🏁 Target: **Jul 2026**
 
 </td>
+<td width="60%" valign="top">
 
-</tr></table>
-
----
-
-**⚔️ LeetCode**
-
+**⚔️ Coding Playground**
+<br/>
 [![LeetCode](https://img.shields.io/badge/LeetCode-Mzaq1559-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mzaq1559/)
+<br/><br/>
+Solving data structures and algorithmic problems to stay sharp and optimize runtime efficiency.
+
+</td>
+</tr>
+</table>
 
 ---
 
-**📊 GitHub Activity**
+### 📊 GitHub Analytics
 
-<table width="100%"><tr>
-<td><img src="https://streak-stats.demolab.com?user=Mzaq1559&theme=dark&hide_border=true&ring=E84E31&fire=E84E31&currStreakLabel=E84E31" width="100%"/></td>
-<td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Mzaq1559&bg_color=0d1117&color=E84E31&line=E84E31&point=ffffff&area=true&area_color=E84E3120&hide_border=true" width="100%"/></td>
-</tr></table>
+<table width="100%">
+<tr>
+<td width="50%"><img src="https://streak-stats.demolab.com?user=Mzaq1559&theme=dark&hide_border=true&ring=E84E31&fire=E84E31&currStreakLabel=E84E31" width="100%"/></td>
+<td width="50%"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Mzaq1559&bg_color=0d1117&color=E84E31&line=E84E31&point=ffffff&area=true&area_color=E84E3120&hide_border=true" width="100%"/></td>
+</tr>
+</table>
 
 ---
+
+### 🌐 Connect With Me
 
 <div align="center">
 
@@ -73,6 +73,8 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Mzaq1559-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mzaq1559/) &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mzaq1559)
 
-<sub>Building in public. If something interests you — reach out.</sub>
+<br/>
+
+<sub>Building in public. If something interests you — let's collaborate!</sub>
 
 </div>
