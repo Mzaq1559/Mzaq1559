@@ -47,8 +47,6 @@ I write code at two ends of the stack — bare-metal firmware on an ATmega32 and
 </tr>
 </table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mzaq1559&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=E84E31&text_color=c9d1d9&langs_count=6)
-
 </div>
 
 ---
