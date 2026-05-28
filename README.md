@@ -9,7 +9,6 @@
   "name"      : "Muhammad Zulqarnain Abdullah",
   "alias"     : "Mzaq",
   "role"      : "CS Undergrad · 4th Semester",
-  "location"  : "Pakistan",
   "status"    : "open_to_internships",
   "focus"     : ["systems programming", "embedded firmware", "frontend engineering"],
   "discipline": "1 DSA problem daily · build to understand · document everything"
