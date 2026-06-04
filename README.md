@@ -2,7 +2,7 @@
 <img src="banner.svg" width="100%" alt="Mzaq Banner"/>
 </div>
 
----
+<br/>
 
 ```json
 {
@@ -17,27 +17,24 @@
 
 ---
 
-```
-  I write code at two ends of the stack — bare-metal firmware on an ATmega32
-  and type-safe React apps in the browser. I learn by building real things,
-  keeping work public, and grinding fundamentals over frameworks.
-  Comfortable reading registers, thinking in pointers, and shipping UIs.
-```
+I write code at two ends of the stack — bare-metal firmware on an ATmega32 and type-safe React apps in the browser. Currently working through neural network fundamentals via Karpathy's micrograd and makemore. I learn by building real things, keeping work public, and grinding fundamentals over frameworks. Comfortable reading registers, thinking in pointers, and shipping UIs.
 
 ---
 
 ## `~/activity`
 
 <div align="center">
+
 <table>
 <tr>
-<td valign="top">
+<td valign="top" width="55%">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mzaq1559&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ccffcc&include_all_commits=true&count_private=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mzaq1559&theme=dark&hide_border=true&background=0D1117&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideLabels=ccffcc&dates=005514&sideNums=ccffcc&currStreakNum=ccffcc)
 
 </td>
-<td valign="top">
+<td valign="top" width="45%">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Mzaq1559?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=4)
 
@@ -45,25 +42,15 @@
 </tr>
 </table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mzaq1559&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ccffcc&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mzaq1559&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ccffcc&langs_count=8)
+
 </div>
 
 ---
 
-## `~/learning-diary`
+## `~/blog`
 
-```
-  ┌─────────────────────────────────────────────────────────────────┐
-  │  My-Learning-Diary                                              │
-  │  → mzaq1559.github.io/My-Learning-Diary                        │
-  │                                                                 │
-  │  A public engineering journal. Posts live as GitHub Issues,     │
-  │  fetched at runtime via Octokit REST. Zero backend. Zero DB.    │
-  │  Deployed automatically via GitHub Actions → GitHub Pages.      │
-  │                                                                 │
-  │  stack: React 18 · TypeScript · Octokit REST · GitHub Actions  │
-  └─────────────────────────────────────────────────────────────────┘
-```
+**[My Learning Diary](https://mzaq1559.github.io/My-Learning-Diary/)** — a public engineering journal where I document everything I build and study. Posts live as GitHub Issues fetched at runtime via Octokit REST. Zero backend. Zero database. Deployed via GitHub Actions to GitHub Pages.
 
 ---
 
@@ -84,10 +71,7 @@
 
 <div align="center">
 
-```
-  "The mission of learning is to gain an understanding of various designs."
-  "Automate any behavior worth sustaining."
-```
+*"The mission of learning is to gain an understanding of various designs."*
 
 <sub>building in public · open source by default · if something interests you — let's collaborate</sub>
 
