@@ -63,7 +63,7 @@ I write code at two ends of the stack — bare-metal firmware on an ATmega32 and
 [![linkedin](https://img.shields.io/badge/linkedin-connect-00ff41?style=for-the-badge&logo=linkedin&logoColor=0a0a0a)](https://www.linkedin.com/in/muhammad-zulqarnain-26276b319)
 [![github](https://img.shields.io/badge/github-Mzaq1559-00882b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mzaq1559)
 [![leetcode](https://img.shields.io/badge/leetcode-Mzaq1559-00ff41?style=for-the-badge&logo=leetcode&logoColor=0a0a0a)](https://leetcode.com/u/Mzaq1559/)
-[![codeforces](https://img.shields.io/badge/codeforces-Mzaq-00cc33?style=for-the-badge&logo=codeforces&logoColor=0a0a0a)](https://codeforces.com/profile/Mzaq)
+
 
 </div>
 
