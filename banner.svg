@@ -3,7 +3,6 @@
 
   <style>
     @keyframes fall0  { 0%{opacity:0;transform:translateY(-200px)} 100%{opacity:1;transform:translateY(200px)} }
-    @keyframes fall1  { 0%{opacity:0;transform:translateY(-200px)} 100%{opacity:1;transform:translateY(200px)} }
     @keyframes blink  { 0%,100%{opacity:1} 50%{opacity:0} }
     @keyframes glow   { 0%,100%{fill:#00ff41} 50%{fill:#39ff14} }
     .col { font-family:'Courier New',monospace; font-size:13px; fill:#00ff41; writing-mode:tb; animation:fall0 linear infinite; }
@@ -52,8 +51,8 @@
 
   <rect x="0" y="90" width="800" height="110" fill="#0a0a0a" opacity="0.85"/>
 
-  <text class="name" x="400" y="138">MUHAMMAD ZULQARNAIN ABDULLAH</text>
-  <text class="sub"  x="400" y="160">CS Undergrad · 4th Semester  ·  C++ | TypeScript | AVR Assembly</text>
-  <text class="tags" x="400" y="178">[ systems_programming ]  [ embedded_firmware ]  [ frontend_engineering ]  [ open_to_internships ]</text>
-  <text class="tags cursor" x="710" y="178">▋</text>
+  <text class="name" x="400" y="135">MUHAMMAD ZULQARNAIN ABDULLAH</text>
+  <text class="sub"  x="400" y="157">C++ · Python · PyTorch · React · FastAPI · Docker · NLP · CV</text>
+  <text class="tags" x="400" y="177">[ makemore ]  [ micrograd ]  [ llm ]  [ computer_vision ]  [ open_to_internships ]</text>
+  <text class="tags cursor" x="696" y="177">▋</text>
 </svg>
