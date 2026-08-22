@@ -10,12 +10,6 @@
 
 <br/>
 
-![](https://img.shields.io/badge/CS_Undergrad-4th_Semester-00ff41?style=flat-square&labelColor=0d1117)
-&nbsp;
-![](https://img.shields.io/badge/Pakistan-Islamabad-00882b?style=flat-square&labelColor=0d1117)
-&nbsp;
-![](https://img.shields.io/badge/Open_to-Internships-00ff41?style=flat-square&labelColor=0d1117)
-
 </div>
 
 ---
