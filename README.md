@@ -1,81 +1,41 @@
-# Muhammad Zulqarnain Abdullah · Mzaq
 
-**CS Undergrad · 5th Semester · UET Taxila, Pakistan**
-Open to internships · building in public · learning AI from scratch
+## 🛠️ Tech Stack
 
----
+### 🖥️ Languages
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-I'm working through neural networks from the ground up — backpropagation, bigram models, embeddings — following Karpathy's Zero to Hero series. Everything I build gets documented publicly on my blog.
+### ⚙️ Frameworks & Web Tools
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-On the side: React frontends, FastAPI backends, Docker, and daily LeetCode.
-I learn by building real things, not passively watching tutorials.
+### 🛠️ Developer Tools
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-**Currently building:** micrograd · makemore · My Learning Diary
+### 🧠 Core Skills
+**Languages:** ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Stack:** Python · React · TypeScript · FastAPI · Docker · C++
+**Frameworks & Web:** ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Discipline:** 2 DSA problems daily · build to understand · document everything
-
----
-
-## Blog
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  My Learning Diary                                              │
-│  → mzaq1559.github.io/My-Learning-Diary                        │
-│                                                                 │
-│  A public engineering journal where I document everything I     │
-│  build and study. Posts live as GitHub Issues, fetched at       │
-│  runtime via Octokit REST. Zero backend. Zero database.         │
-│  Deployed via GitHub Actions → GitHub Pages.                    │
-│                                                                 │
-│  stack: React 18 · TypeScript · Octokit REST · GitHub Actions  │
-└─────────────────────────────────────────────────────────────────┘
-```
+**Tools & Databases:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ---
 
-## Activity
+## 🧠 Core Skills
 
-<div align="center">
-<table>
-<tr>
-<td valign="top">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mzaq1559&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00882b&text_color=ccffcc&include_all_commits=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Mzaq1559&theme=dark&hide_border=true&background=0D1117&ring=00ff41&fire=39ff14&currStreakLabel=00882b&sideLabels=ccffcc&dates=005514)
-
-</td>
-<td valign="top">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Mzaq1559?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=4)
-
-</td>
-</tr>
-</table>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mzaq1559&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ccffcc&langs_count=6)
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-[![blog](https://img.shields.io/badge/blog-My%20Learning%20Diary-00ff41?style=for-the-badge&logo=hashnode&logoColor=0a0a0a)](https://mzaq1559.github.io/My-Learning-Diary/)
-[![portfolio](https://img.shields.io/badge/portfolio-mzaq1559.github.io-00882b?style=for-the-badge&logo=vercel&logoColor=white)](https://mzaq1559.github.io/PortFolio/)
-[![linkedin](https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zulqarnain-26276b319)
-[![github](https://img.shields.io/badge/github-Mzaq1559-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/Mzaq1559)
-[![leetcode](https://img.shields.io/badge/leetcode-Mzaq1559-FFA116?style=for-the-badge&logo=leetcode&logoColor=0a0a0a)](https://leetcode.com/u/Mzaq1559/)
-[![codeforces](https://img.shields.io/badge/codeforces-Mzaq-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Mzaq)
-
-</div>
-
----
-
-<div align="center">
-<sub>building in public · learning AI from scratch · open to internships & collaboration</sub>
-</div>
+- 🚀 **Backend Development:** Building robust APIs with FastAPI & Django
+- 📊 **Data Science:** Time Series Analysis & Sentiment Modeling
+- 🏛️ **Logic & Reasoning:** Decision-making systems using Propositional Logic
