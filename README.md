@@ -19,7 +19,6 @@
   "name"      : "Muhammad Zulqarnain Abdullah",
   "alias"     : "Mzaq",
   "role"      : "CS Undergrad · 5th Semester",
-  "location"  : "Pakistan",
   "status"    : "open_to_internships",
   "focus"     : ["web development", "AI/ML", "LLM internals", "computer vision"],
   "learning"  : ["makemore", "micrograd", "PyTorch", "FastAPI", "Docker", "NLP", "CV"],
