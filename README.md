@@ -1,4 +1,4 @@
-`Born 2003` · `CS Undergrad @ UET Taxila` · `Web Dev + AI Explorer`
+`Born 2005` · `CS Undergrad @ UET Taxila` · `Web Dev + AI Explorer`
 
 [Blog](https://mzaq1559.github.io/My-Learning-Diary/) · 
 [Portfolio](https://mzaq1559.github.io/PortFolio/) · 
