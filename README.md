@@ -1,6 +1,6 @@
 `Born 2005` · `Web Developer` · `AI/ML Engineer in Progress`
 
-[Blog](https://mzaq1559.github.io/My-Learning-Diary/) · [Portfolio](https://mzaq1559.github.io/PortFolio/) · [LeetCode](https://leetcode.com/u/Mzaq1559/) · [LinkedIn](https://www.linkedin.com/in/muhammad-zulqarnain-26276b319)
+[Blog](https://mzaq1559.github.io/My-Learning-Diary/) · [Portfolio](https://mzaq1559.github.io/PortFolio/) · [LeetCode](https://leetcode.com/u/Mzaq1559/) · [LinkedIn](https://www.linkedin.com/in/muhammad-zulqarnain-abdullah/)
 
 - building full-stack applications with **React, TypeScript, FastAPI, and .NET**
 - learning **Machine Learning from the ground up** — neural networks, backpropagation, LLMs, and computer vision
