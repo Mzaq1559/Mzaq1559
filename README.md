@@ -30,7 +30,7 @@
 </tr>
 </table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mzaq1559&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ccffcc&langs_count=6&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mzaq1559&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ccffcc&langs_count=6)
 
 ![Mzaq's Contributions](https://github.pumbas.net/api/contributions/Mzaq1559?backgroundColour=%230d1117&lineColour=%2300ff41&labelColour=%23ccffcc&pointColour=%2339ff14)
 
