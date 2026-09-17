@@ -2,7 +2,7 @@
 
 [Blog](https://mzaq1559.github.io/My-Learning-Diary/) · [Portfolio](https://mzaq1559.github.io/PortFolio/) · [LeetCode](https://leetcode.com/u/Mzaq1559/) · [LinkedIn](https://www.linkedin.com/in/muhammad-zulqarnain-abdullah/)
 
-* building full-stack applications with **React, TypeScript, FastAPI, and .NET**
+* building full-stack applications with **React, TypeScript, FastAPI, and Python**
 * learning **Machine Learning from the ground up** — neural networks, backpropagation, LLMs, and computer vision
 * exploring **agentic AI, RAG pipelines, and AI-assisted development**
 * everything I learn goes public
