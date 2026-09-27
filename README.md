@@ -1,11 +1,46 @@
-`Born 2005` · `Web Developer` · `AI/ML Engineer in Progress`
+# Muhammad Zulqarnain Abdullah
 
-[Blog](https://mzaq1559.github.io/My-Learning-Diary/) · [Portfolio](https://mzaq1559.github.io/PortFolio/) · [LeetCode](https://leetcode.com/u/Mzaq1559/) · [LinkedIn](https://www.linkedin.com/in/muhammad-zulqarnain-abdullah/)
+**Computer Science Student · Web Developer · AI/ML Engineer in Progress**
 
-* building full-stack applications with **React, TypeScript, FastAPI, and Python**
-* learning **Machine Learning from the ground up** — neural networks, backpropagation, LLMs, and computer vision
-* exploring **agentic AI, RAG pipelines, and AI-assisted development**
-* everything I learn goes public
+[Blog](https://mzaq1559.github.io/My-Learning-Diary/) · [Portfolio](https://mzaq1559.github.io/PortFolio/) · [LinkedIn](https://www.linkedin.com/in/muhammad-zulqarnain-abdullah/) · [LeetCode](https://leetcode.com/u/Mzaq1559/)
+
+I'm a **BS Computer Science student at UET Taxila** who likes learning by building, debugging, and shipping real software.
+
+- building full-stack applications with **React, TypeScript, FastAPI, Python, and .NET**
+- learning **Machine Learning from the ground up** — from regression and optimization to neural networks, backpropagation, and computer vision
+- exploring **RAG pipelines, LLMs, agentic AI, and AI-assisted development**
+- working with **Docker, Linux, Git, PostgreSQL, Redis, and ChromaDB**
+- documenting what I build and learn publicly through my **Learning Diary**
+- currently focused on becoming capable of **building systems from scratch, not just prompting them into existence**
+
+---
+
+## What I'm Working On
+
+**AI / ML**
+- Neural networks and backpropagation from first principles
+- Computer vision and video analytics
+- RAG and LLM-based applications
+- Agentic AI systems
+
+**Software Engineering**
+- React + TypeScript frontends
+- FastAPI and .NET backends
+- REST APIs and database-backed applications
+- Dockerized development and deployment
+
+**Learning in Public**
+- Every useful thing I learn gets turned into code, notes, or a project.
+- [Read the Learning Diary →](https://mzaq1559.github.io/My-Learning-Diary/)
+
+---
+
+## Featured Projects
+
+- **[AutoVision Vehicle Intelligence](https://github.com/Mzaq1559/autovision-vehicle-intelligence)** — vehicle detection, tracking, speed estimation, trajectories, and analytics using YOLO + ByteTrack.
+- **[MediBook AI](https://github.com/Mzaq1559/MEDIBOOK_AI)** — AI-powered healthcare application built with React, FastAPI, RAG, ChromaDB, and n8n.
+- **[Job Application MCP](https://github.com/Mzaq1559/job-application-mcp)** — MCP server for managing job-application/profile data with OAuth-protected deployment.
+- **[My Learning Diary](https://github.com/Mzaq1559/Blog_Website-My-Learning-Diary)** — the source code behind this blog, where I document projects, debugging sessions, and things I'm learning.
 
 ---
 
@@ -45,4 +80,4 @@
 
 ---
 
-> If you're interested in anything I'm building, or have an interesting idea you'd like to work on, feel free to reach out. I'm always happy to collaborate.
+> Building in public, learning from first principles, and trying to understand what I'm actually writing — not just making it work.
