@@ -35,12 +35,17 @@ I'm a **BS Computer Science student at UET Taxila** who likes learning by buildi
 
 ---
 
-## Featured Projects
+## Learning in Public
 
-- **[AutoVision Vehicle Intelligence](https://github.com/Mzaq1559/autovision-vehicle-intelligence)** — vehicle detection, tracking, speed estimation, trajectories, and analytics using YOLO + ByteTrack.
-- **[MediBook AI](https://github.com/Mzaq1559/MEDIBOOK_AI)** — AI-powered healthcare application built with React, FastAPI, RAG, ChromaDB, and n8n.
-- **[Job Application MCP](https://github.com/Mzaq1559/job-application-mcp)** — MCP server for managing job-application/profile data with OAuth-protected deployment.
-- **[My Learning Diary](https://github.com/Mzaq1559/Blog_Website-My-Learning-Diary)** — the source code behind this blog, where I document projects, debugging sessions, and things I'm learning.
+My [Learning Diary](https://mzaq1559.github.io/My-Learning-Diary/) is where I document what I build, what breaks, and what I learn while working through software engineering, machine learning, and AI.
+
+- project build logs
+- debugging sessions and technical write-ups
+- ML concepts and implementations
+- experiments with LLMs, RAG, and agentic AI
+- lessons learned from shipping real projects
+
+**Everything I learn, I try to make public.**
 
 ---
 
