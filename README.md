@@ -1,35 +1,29 @@
 # Muhammad Zulqarnain Abdullah
 
-**Computer Science Student · Web Developer · AI/ML Engineer in Progress**
+**💻 Computer Science Student · 🌐 Web Developer · 🤖 AI/ML Engineer in Progress**
 
-[Blog](https://mzaq1559.github.io/My-Learning-Diary/) · [Portfolio](https://mzaq1559.github.io/PortFolio/) · [LinkedIn](https://www.linkedin.com/in/muhammad-zulqarnain-abdullah/) · [LeetCode](https://leetcode.com/u/Mzaq1559/)
+[📖 Blog](https://mzaq1559.github.io/My-Learning-Diary/) · [💼 Portfolio](https://mzaq1559.github.io/PortFolio/) · [🔗 LinkedIn](https://www.linkedin.com/in/muhammad-zulqarnain-abdullah/) · [🧩 LeetCode](https://leetcode.com/u/Mzaq1559/)
 
-I'm a **BS Computer Science student at UET Taxila** who likes learning by building, debugging, and shipping real software.
+I'm a **BS Computer Science student at UET Taxila** who likes learning by building, debugging, and shipping real software. 🚀
 
-- building full-stack applications with **React, TypeScript, FastAPI, Python, and .NET**
-- learning **Machine Learning from the ground up** — from regression and optimization to neural networks, backpropagation, and computer vision
-- exploring **RAG pipelines, LLMs, agentic AI, and AI-assisted development**
-- working with **Docker, Linux, Git, PostgreSQL, Redis, and ChromaDB**
-- documenting what I build and learn publicly through my **Learning Diary**
-- currently focused on becoming capable of **building systems from scratch, not just prompting them into existence**
+- 🛠️ building full-stack applications with **React, TypeScript, FastAPI, Python, and .NET**
+- 🧠 learning **Machine Learning from the ground up** — from regression and optimization to neural networks, backpropagation, and computer vision
+- 🤖 exploring **RAG pipelines, LLMs, agentic AI, and AI-assisted development**
+- 🐳 working with **Docker, Linux, Git, PostgreSQL, Redis, and ChromaDB**
+- 📚 documenting what I build and learn publicly through my **Learning Diary**
+- 💡 currently focused on becoming capable of **building systems from scratch, not just prompting them into existence**
 
 ---
 
-## Learning in Public
+## 📚 Learning in Public
 
 My [Learning Diary](https://mzaq1559.github.io/My-Learning-Diary/) is where I document what I build, what breaks, and what I learn while working through software engineering, machine learning, and AI.
 
-- project build logs
-- debugging sessions and technical write-ups
-- ML concepts and implementations
-- experiments with LLMs, RAG, and agentic AI
-- lessons learned from shipping real projects
-
-**Everything I learn, I try to make public.**
+**Everything I learn, I try to make public.** 🌱
 
 ---
 
-## Activity
+## 📊 Activity
 
 <div align="center">
 
@@ -65,4 +59,4 @@ My [Learning Diary](https://mzaq1559.github.io/My-Learning-Diary/) is where I do
 
 ---
 
-> Building in public, learning from first principles, and trying to understand what I'm actually writing — not just making it work.
+> 🚀 Building in public, learning from first principles, and trying to understand what I'm actually writing — not just making it work.
