@@ -15,26 +15,6 @@ I'm a **BS Computer Science student at UET Taxila** who likes learning by buildi
 
 ---
 
-## What I'm Working On
-
-**AI / ML**
-- Neural networks and backpropagation from first principles
-- Computer vision and video analytics
-- RAG and LLM-based applications
-- Agentic AI systems
-
-**Software Engineering**
-- React + TypeScript frontends
-- FastAPI and .NET backends
-- REST APIs and database-backed applications
-- Dockerized development and deployment
-
-**Learning in Public**
-- Every useful thing I learn gets turned into code, notes, or a project.
-- [Read the Learning Diary →](https://mzaq1559.github.io/My-Learning-Diary/)
-
----
-
 ## Learning in Public
 
 My [Learning Diary](https://mzaq1559.github.io/My-Learning-Diary/) is where I document what I build, what breaks, and what I learn while working through software engineering, machine learning, and AI.
