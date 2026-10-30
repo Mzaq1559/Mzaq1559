@@ -59,7 +59,7 @@ My [Learning Diary](https://mzaq1559.github.io/My-Learning-Diary/) is where I do
 
 <p align="center">
   <img
-    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    src="https://github.com/Mzaq1559/Mzaq1559/blob/master/profile-3d-contrib/profile-night-rainbow.svg"
     alt="3D GitHub contribution graph showing contribution activity, language distribution, and activity metrics"
     width="100%"
   />
