@@ -8,25 +8,32 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-3d-contributions
+  cancel-in-progress: false
+
 jobs:
   generate:
+    name: Generate 3D contribution graph
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout profile repository
         uses: actions/checkout@v5
 
-      - name: Generate 3D contribution graph
+      - name: Generate 3D contribution SVGs
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit generated SVG files
+      - name: Commit and push generated SVGs
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add profile-3d-contrib/
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: update 3D contribution graph"
+          git add -A .
+          if git commit -m "chore: update 3D contribution graph"; then
             git push
+          else
+            echo "No changes to generated contribution graphs."
           fi
