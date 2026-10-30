@@ -55,6 +55,10 @@ My [Learning Diary](https://mzaq1559.github.io/My-Learning-Diary/) is where I do
 </tr>
 </table>
 
+<h3>🌌 3D Contribution Graph</h3>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" width="100%" />
+
 </div>
 
 ---
