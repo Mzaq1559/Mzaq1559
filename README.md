@@ -2,7 +2,7 @@
 
 **💻 Computer Science Student · 🌐 Web Developer · 🤖 AI/ML Engineer in Progress**
 
-[📖 Blog](https://mzaq1559.github.io/My-Learning-Diary/) · [💼 Portfolio](https://mzaq1559.github.io/PortFolio/) · [🔗 LinkedIn](https://www.linkedin.com/in/muhammad-zulqarnain-abdullah/) · [🧩 LeetCode](https://leetcode.com/u/Mzaq1559/) · [📊 Kaggle](https://www.kaggle.com/mzaq1559)
+[📖 Blog](https://mzaq1559.github.io/My-Learning-Diary/) · [💼 Portfolio](https://mzaq1559.github.io/PortFolio/) · [🔗 LinkedIn](https://www.linkedin.com/in/muhammad-zulqarnain-abdullah/) · [🧩 LeetCode](https://leetcode.com/u/Mzaq1559/) · [📊 Kaggle](https://www.kaggle.com/mzaq1559) · [🤗 Hugging Face](https://huggingface.co/mzaq1559)
 
 I'm a **BS Computer Science student at UET Taxila** who likes learning by building, debugging, and shipping real software. 🚀
 
